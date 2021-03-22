@@ -1,2 +1,1 @@
-# JavaScript-Apps
-JavaScript Apps 
+# JavaScript-Web-Apps
